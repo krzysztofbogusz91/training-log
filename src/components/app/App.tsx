@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
-
+// https://medium.com/@Charles_Stover/optimal-file-structure-for-react-applications-f3e35ad0a145
+//how to structure app
 const App: React.FC = () => {
   return (
     <div className="App">
